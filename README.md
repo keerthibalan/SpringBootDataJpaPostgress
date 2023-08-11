@@ -4,5 +4,6 @@
   Java SE 11.0.20
   Postgress database
   JRE 1.8
-  
+# install java
+
 
