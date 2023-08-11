@@ -1,4 +1,4 @@
-package com.veena.sky.travel.controller;
+package com.spring.data.jpa.controller;
 
 
 import java.util.List;
@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.veena.sky.travel.model.User;
-import com.veena.sky.travel.service.UserService;
+import com.spring.data.jpa.model.User;
+import com.spring.data.jpa.service.UserService;
 
 
 @RestController

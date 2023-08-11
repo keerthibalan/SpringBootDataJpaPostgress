@@ -1,8 +1,8 @@
-package com.veena.sky.travel.service;
+package com.spring.data.jpa.service;
 
 import java.util.List;
 
-import com.veena.sky.travel.model.User;
+import com.spring.data.jpa.model.User;
 
 
 public interface UserService {

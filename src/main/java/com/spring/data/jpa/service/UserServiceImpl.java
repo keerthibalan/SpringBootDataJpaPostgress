@@ -1,12 +1,12 @@
-package com.veena.sky.travel.service;
+package com.spring.data.jpa.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.veena.sky.travel.model.User;
-import com.veena.sky.travel.repository.UserRepository;
+import com.spring.data.jpa.model.User;
+import com.spring.data.jpa.repository.UserRepository;
 
 
 @Service("UserService")

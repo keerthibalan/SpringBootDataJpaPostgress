@@ -1,4 +1,4 @@
-package com.veena.sky.travel.model;
+package com.spring.data.jpa.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

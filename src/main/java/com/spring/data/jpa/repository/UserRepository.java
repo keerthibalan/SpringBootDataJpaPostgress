@@ -1,10 +1,10 @@
-package com.veena.sky.travel.repository;
+package com.spring.data.jpa.repository;
 
 import javax.persistence.Id;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.veena.sky.travel.model.User;
+import com.spring.data.jpa.model.User;
 
 public interface UserRepository extends JpaRepository<User, Id>{
 	
