@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: KEERTHIBALAN
+Build-Jdk: 17.0.7
+Implementation-Title: keerthibalan myapp spi
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.spring.myapp
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/myapp
+Created-By: Maven Integration for Eclipse
+
